@@ -50,36 +50,33 @@
 
 (You need to be an admin or Auth User in order to use these commands)
 
-> Filter Commands
-* `/add <filtername> <filtercontent>`  -  To add your filter. You can also reply to your content with /add command.
 
-* `/del <filtername>`  -  Delete your filter.
+ninak Kopkittum poda irangi
 
-* `/delall`  -  Delete all filters from group. (Group Owner Only!)
 
-* `/viewfilters`  -  List all filters in chat.
 
-> Connection Commands
-* `/connect groupid`  -  Connects your group to PM. You can also simply use, `/connect` in groups.
 
-* `/connections`  -  Manage your connections. (only in PM)
 
-> Extras
-* `/status`  -  Shows current status of your bot (Auth User Only)
 
-* `/id`  -  Shows ID information
 
-* `/info <userid>`  -  Shows User Information. Also use `/info` as reply to some message for their details!
+
+
+
+
+
+
+
+
 
 
 ## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
+[Join Channel](https://t.me/Tamil_mv_movies1)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [Official Group](https://t.me/cinemacollectionsgroup) and [Erich Daniken](https://t.me/ProMovieSearchbot) for the video
 
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [Search Movie](https://telegram.dog/TroJanzSupport)
 
 
 ## Installation
@@ -89,7 +86,8 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
+git clone Unlimited-Filter-Bot
+https://github.com/Albertwar/Unlimited-Filter-Bot
 cd Unlimited-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
